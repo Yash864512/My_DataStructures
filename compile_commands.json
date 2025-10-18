@@ -1,0 +1,113 @@
+[{
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\18Graphs\\queue.h",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\18Graphs",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\18Graphs\\queue.h -o D:\\CPP\\Workspaces\\MyDSA\\18Graphs\\queue.h.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\18Graphs\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\18Graphs",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\18Graphs\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\18Graphs\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\18Graphs\\queue.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\18Graphs",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\18Graphs\\queue.cpp -o D:\\CPP\\Workspaces\\MyDSA\\18Graphs\\queue.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\17HashingTechniques\\LinkedList.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\17HashingTechniques",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\17HashingTechniques\\LinkedList.cpp -o D:\\CPP\\Workspaces\\MyDSA\\17HashingTechniques\\LinkedList.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\17HashingTechniques\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\17HashingTechniques",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\17HashingTechniques\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\17HashingTechniques\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\17HashingTechniques\\LinkedList.h",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\17HashingTechniques",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\17HashingTechniques\\LinkedList.h -o D:\\CPP\\Workspaces\\MyDSA\\17HashingTechniques\\LinkedList.h.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\11Trees(C++)\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\11Trees(C++)",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\11Trees(C++)\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\11Trees(C++)\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\06Matrices\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\06Matrices",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\06Matrices\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\06Matrices\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\13AVL_Trees\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\13AVL_Trees",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\13AVL_Trees\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\13AVL_Trees\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\05Strings\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\05Strings",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\05Strings\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\05Strings\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\14SearchTrees\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\14SearchTrees",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\14SearchTrees\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\14SearchTrees\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\16SortingTechniques\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\16SortingTechniques",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\16SortingTechniques\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\16SortingTechniques\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\12BST(C++)\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\12BST(C++)",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\12BST(C++)\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\12BST(C++)\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\12BinarySearchTree(BST)\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\12BinarySearchTree(BST)",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\12BinarySearchTree(BST)\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\12BinarySearchTree(BST)\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\15Heap(C++)\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\15Heap(C++)",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\15Heap(C++)\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\15Heap(C++)\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\10Queues(C++)\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\10Queues(C++)",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\10Queues(C++)\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\10Queues(C++)\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\11Trees\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\11Trees",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\11Trees\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\11Trees\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\10Queues\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\10Queues",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\10Queues\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\10Queues\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\09Stack\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\09Stack",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\09Stack\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\09Stack\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\Recursion\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\Recursion",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\Recursion\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\Recursion\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\07SparseMatrix\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\07SparseMatrix",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\07SparseMatrix\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\07SparseMatrix\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\04ArrayADT(C++)\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\04ArrayADT(C++)",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\04ArrayADT(C++)\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\04ArrayADT(C++)\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\04ArrayADT\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\04ArrayADT",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\04ArrayADT\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\04ArrayADT\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\08LinkedList(C++)\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\08LinkedList(C++)",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\08LinkedList(C++)\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\08LinkedList(C++)\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\ArrayRepresentations\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\ArrayRepresentations",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\ArrayRepresentations\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\ArrayRepresentations\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\08LinkedList\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\08LinkedList",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\08LinkedList\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\08LinkedList\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\13AVL_Trees(C++)\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\13AVL_Trees(C++)",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\13AVL_Trees(C++)\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\13AVL_Trees(C++)\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}, {
+		"file":	"D:\\CPP\\Workspaces\\MyDSA\\main\\main.cpp",
+		"directory":	"D:\\CPP\\Workspaces\\MyDSA\\main",
+		"command":	"C:/mingw64/bin/g++.exe -c D:\\CPP\\Workspaces\\MyDSA\\main\\main.cpp -o D:\\CPP\\Workspaces\\MyDSA\\main\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+	}]

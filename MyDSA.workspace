@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="MyDSA" Database="" Version="10000">
+  <Project Name="01Basics" Path="main/main.project" Active="No"/>
+  <Project Name="02Recursion" Path="Recursion/Recursion.project" Active="No"/>
+  <Project Name="03ArrayRepresentations" Path="ArrayRepresentations/ArrayRepresentations.project" Active="No"/>
+  <Project Name="04ArrayADT" Path="04ArrayADT/04ArrayADT.project" Active="No"/>
+  <Project Name="04ArrayADT(C++)" Path="04ArrayADT(C++)/04ArrayADT(C++).project" Active="No"/>
+  <Project Name="05Strings" Path="05Strings/05Strings.project" Active="No"/>
+  <Project Name="06Matrices" Path="06Matrices/06Matrices.project" Active="No"/>
+  <Project Name="07SparseMatrix" Path="07SparseMatrix/07SparseMatrix.project" Active="No"/>
+  <Project Name="08LinkedList" Path="08LinkedList/08LinkedList.project" Active="No"/>
+  <Project Name="08LinkedList(C++)" Path="08LinkedList(C++)/08LinkedList(C++).project" Active="No"/>
+  <Project Name="09Stack" Path="09Stack/09Stack.project" Active="No"/>
+  <Project Name="10Queues" Path="10Queues/10Queues.project" Active="No"/>
+  <Project Name="10Queues(C++)" Path="10Queues(C++)/10Queues(C++).project" Active="No"/>
+  <Project Name="11Trees" Path="11Trees/11Trees.project" Active="No"/>
+  <Project Name="11Trees(C++)" Path="11Trees(C++)/11Trees(C++).project" Active="No"/>
+  <Project Name="12BinarySearchTree(BST)" Path="12BinarySearchTree(BST)/12BinarySearchTree(BST).project" Active="No"/>
+  <Project Name="12BST(C++)" Path="12BST(C++)/12BST(C++).project" Active="No"/>
+  <Project Name="13AVL_Trees" Path="13AVL_Trees/13AVL_Trees.project" Active="No"/>
+  <Project Name="13AVL_Trees(C++)" Path="13AVL_Trees(C++)/13AVL_Trees(C++).project" Active="No"/>
+  <Project Name="14SearchTrees" Path="14SearchTrees/14SearchTrees.project" Active="No"/>
+  <Project Name="15Heap(C++)" Path="15Heap(C++)/15Heap(C++).project" Active="No"/>
+  <Project Name="16SortingTechniques" Path="16SortingTechniques/16SortingTechniques.project" Active="No"/>
+  <Project Name="17HashingTechniques" Path="17HashingTechniques/17HashingTechniques.project" Active="No"/>
+  <Project Name="18Graphs" Path="18Graphs/18Graphs.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="01Basics" ConfigName="Debug"/>
+      <Project Name="02Recursion" ConfigName="Debug"/>
+      <Project Name="03ArrayRepresentations" ConfigName="Debug"/>
+      <Project Name="04ArrayADT" ConfigName="Debug"/>
+      <Project Name="04ArrayADT(C++)" ConfigName="Debug"/>
+      <Project Name="05Strings" ConfigName="Debug"/>
+      <Project Name="06Matrices" ConfigName="Debug"/>
+      <Project Name="07SparseMatrix" ConfigName="Debug"/>
+      <Project Name="08LinkedList" ConfigName="Debug"/>
+      <Project Name="08LinkedList(C++)" ConfigName="Debug"/>
+      <Project Name="09Stack" ConfigName="Debug"/>
+      <Project Name="10Queues" ConfigName="Debug"/>
+      <Project Name="10Queues(C++)" ConfigName="Debug"/>
+      <Project Name="11Trees" ConfigName="Debug"/>
+      <Project Name="11Trees(C++)" ConfigName="Debug"/>
+      <Project Name="12BinarySearchTree(BST)" ConfigName="Debug"/>
+      <Project Name="12BST(C++)" ConfigName="Debug"/>
+      <Project Name="13AVL_Trees" ConfigName="Debug"/>
+      <Project Name="13AVL_Trees(C++)" ConfigName="Debug"/>
+      <Project Name="14SearchTrees" ConfigName="Debug"/>
+      <Project Name="15Heap(C++)" ConfigName="Debug"/>
+      <Project Name="16SortingTechniques" ConfigName="Debug"/>
+      <Project Name="17HashingTechniques" ConfigName="Debug"/>
+      <Project Name="18Graphs" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="01Basics" ConfigName="Release"/>
+      <Project Name="02Recursion" ConfigName="Release"/>
+      <Project Name="03ArrayRepresentations" ConfigName="Release"/>
+      <Project Name="04ArrayADT" ConfigName="Release"/>
+      <Project Name="04ArrayADT(C++)" ConfigName="Release"/>
+      <Project Name="05Strings" ConfigName="Release"/>
+      <Project Name="06Matrices" ConfigName="Release"/>
+      <Project Name="07SparseMatrix" ConfigName="Release"/>
+      <Project Name="08LinkedList" ConfigName="Release"/>
+      <Project Name="08LinkedList(C++)" ConfigName="Release"/>
+      <Project Name="09Stack" ConfigName="Release"/>
+      <Project Name="10Queues" ConfigName="Release"/>
+      <Project Name="10Queues(C++)" ConfigName="Release"/>
+      <Project Name="11Trees" ConfigName="Release"/>
+      <Project Name="11Trees(C++)" ConfigName="Release"/>
+      <Project Name="12BinarySearchTree(BST)" ConfigName="Release"/>
+      <Project Name="12BST(C++)" ConfigName="Release"/>
+      <Project Name="13AVL_Trees" ConfigName="Release"/>
+      <Project Name="13AVL_Trees(C++)" ConfigName="Release"/>
+      <Project Name="14SearchTrees" ConfigName="Release"/>
+      <Project Name="15Heap(C++)" ConfigName="Release"/>
+      <Project Name="16SortingTechniques" ConfigName="Release"/>
+      <Project Name="17HashingTechniques" ConfigName="Release"/>
+      <Project Name="18Graphs" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
